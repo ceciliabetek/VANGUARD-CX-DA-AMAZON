@@ -1,4 +1,4 @@
-client_id,clnt_tenure_yr,clnt_tenure_mnth,clnt_age,gender,num_acts,clnt_balance,calls_6_mnth,logons_6_mnth
+client_id,clnt_tenure_yr,clnt_tenure_mnth,clnt_age,gender,num_accts,clnt_balance,calls_6_mnth,logons_6_mnth
 836976,6.0,73.0,60.5,Unknown,2.0,45105.3,6.0,9.0
 2304905,7.0,94.0,58.0,Unknown,2.0,110860.3,6.0,9.0
 1439522,5.0,64.0,32.0,Unknown,2.0,52467.78999999999,6.0,9.0
