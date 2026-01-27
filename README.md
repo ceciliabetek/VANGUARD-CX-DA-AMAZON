@@ -15,10 +15,7 @@ Project Structure:
 
 Tableau links:
 
-Data exploration using Tableau: https://public.tableau.com/views/ProjectVanguard-DataExploration-TeamAmazon/Noofevents[…]sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-Client behavior charts: https://public.tableau.com/views/ProjectVanguard-ClientBehaviourAnalysis-TeamAmazon/Ac[…]sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+Client behavior charts - https://public.tableau.com/views/ProjectVanguard-ClientBehaviourAnalysis-TeamAmazon_17692531240130/CXMonthlyUsageDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Checkpoints and feedback:
 
