@@ -15,7 +15,31 @@ The experiment was conducted over a three-month period, from 15 March to 20 June
 Based on the results of our analysis, we provide insights and recommendations on whether the new design should be fully launched by the company.
 
 
-# findings and recommendations
+## Findings and recommendations:
+
+### Findings:
+
+The analysis revealed several notable patterns in client demographics and behavior.
+
+**Gender distribution** is relatively balanced between male and female clients. A big proportion of records are labeled as "unknown", which may indicate data capture limitations or users who chose not to disclose this information.
+
+**Age distribution** is fairly uniform between 20 and 65 years old, while significantly fewer clients fall outside this range. This suggests that the platform is primarily used by individuals in active working and early retirement stages.
+
+**Client tenure** shows concentrations around 5 and 20 years, indicating the presence of both relatively new and long-term loyal customers.
+
+**Digital engagement** is strongest in the mid-range, with most clients logging in between 3 and 7 times. Very low and very high engagement levels are less common.
+
+**Customer support activity** is generally low, with most clients making between 1 and 2 support calls over the six-month period.
+
+**Account balances** are heavily concentrated in lower ranges (below $100,000), with a sharp decline in the number of clients as balances increase. This indicates that the majority of users are small to mid-level investors.
+
+### Recommendations:
+
+* Delay full rollout until the experience meets the 5pp improvement threshold;
+* Focus on fixing early-stage friction, where drop-offs increased;
+* To fix this friction, better usage guidance at the start of the process could be useful;
+* Run a targeted follow-up A/B test to validate incremental improvements;
+* To assess whether the redesign improves the overall client experience beyond task completion, monitor CX metrics such as      support calls and repeat usage.
 
 ## Project Structure:
 
