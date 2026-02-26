@@ -79,6 +79,11 @@ The analysis revealed several notable patterns in client demographics and behavi
 
 Presentation & Tableau link:
 
+
+https://public.tableau.com/app/profile/divya.sivakumar3700/viz/ProjectVanguard-TeamAmazon/Dashboard23
+
+
+
 https://public.tableau.com/views/ProjectVanguard-TeamAmazon/Dashboard23?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Checkpoints and feedback:
